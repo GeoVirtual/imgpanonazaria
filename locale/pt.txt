@@ -1,0 +1,24 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_D315C51D_DC04_7F97_41C7_D51574904EB3.source = https://www.google.com.br/maps/@-3.8558707,-38.4958236,3a,34.2y,66.23h,92.38t/data=!3m6!1e1!3m4!1sTnH80lsEgbKiQ5M4yw_fkg!2e0!7i16384!8i8192?entry=ttu
+LinkBehaviour_D345C5D7_DC0C_BE92_41D5_F659848D4DFD.source = https://www.google.com.br/maps/@-3.8564377,-38.506817,3a,90y,325.56h,89.02t/data=!3m7!1e1!3m5!1sjFQKbntDEKk3Z2WRhpo4ww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DjFQKbntDEKk3Z2WRhpo4ww%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D74.053604%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu
+LinkBehaviour_CCDE97E5_DC04_9AB6_41E8_D15F9DD53BEC.source = https://www.google.com.br/maps/@-3.8611934,-38.4970057,3a,37.3y,57.82h,97.53t/data=!3m6!1e1!3m4!1se3kOSLq8qPEmx8BSqaP-qA!2e0!7i16384!8i8192?entry=ttu
+LinkBehaviour_CD33B6AE_DC0C_FAB2_41D6_CD85E39FC1B0.source = https://www.google.com.br/maps/@-3.8624168,-38.5016077,3a,49y,47.47h,87.58t/data=!3m6!1e1!3m4!1sPW2LLF1ahK9laefeSFaWJA!2e0!7i16384!8i8192?entry=ttu
+LinkBehaviour_CC86F49F_DC0C_9E93_41D9_65D65DA0EFA3.source = https://www.google.com.br/maps/@-3.8673526,-38.5115905,3a,49y,336.67h,97.23t/data=!3m6!1e1!3m4!1sKT7ULB__SSDu2pcUrwmWZg!2e0!7i16384!8i8192?entry=ttu
+LinkBehaviour_D2FDE9EF_DC1C_F6B2_41E7_3F5199162BEF.source = https://www.google.com.br/maps/@-3.868629,-38.4854154,3a,90y,337.47h,76.55t/data=!3m6!1e1!3m4!1s5INi0uQBLT8o7J3GjrWfnQ!2e0!7i13312!8i6656?entry=ttu
+LinkBehaviour_D3CBB6AC_DC0C_9AB5_41D8_93C70B0E2D6F.source = https://www.google.com.br/maps/place/Igreja+Batista+Central/@-3.8696407,-38.5032768,1134m/data=!3m1!1e3!4m6!3m5!1s0x7c748c081689537:0xb587f95b8390eed1!8m2!3d-3.869457!4d-38.5016209!16s%2Fg%2F1trsy6jl?entry=ttu
+
+## Media
+
+### Title
+panorama_D163A49F_DBFC_BE92_41D2_88D11E17BD3E.label = DJI_0049
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 2
